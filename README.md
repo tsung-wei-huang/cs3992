@@ -25,10 +25,11 @@ We will offer the class *in-person* at [WEB L104](https://map.utah.edu/index.htm
 + Scoring (total 100%)
   + Engineering Evaluation (10%)
   + Resume and Elevator Pitch (10%)
-  + Proposal PDF file (40%)
+  + Proposal PDF file (30%)
+  + Project Website (15%)
   + Technical Open House (10%)
   + Proposal Presentation (15%)
-  + Class Participation (15%)
+  + Class Participation (10%)
 + Recommended Textbook
   + William Strunk and E. B. White, *Elements of Style*
 
@@ -43,7 +44,7 @@ The schedule is subject to change.
 | 01/27/21 | Write a Good Resume | Engineering Evaluation (by 11:59 PM) |
 | 01/29/21 | Build a Personal Website | - |
 | 02/03/21 | Elevator Pitch | - |
-| 02/05/21 | Elevator Pitch | - |
+| 02/05/21 | Elevator Pitch | Resume (by 11:59 PM) |
 | 02/10/21 | Latex | - |
 | 02/12/21 | Team Forming | - |
 | 02/17/21 | Team Forming | - |
@@ -106,11 +107,15 @@ and write down your comments for at least three projects.
 
 ## Resume and Elevator Pitch (In class)
 
+**1-page PDF of your resume (with link to your personal page) turned in via Canvas + in-class pitch**
+
 Create a short resume and quick elevator speech (no slides) that describe why other students in the senior project section would want to "hire" you into their team. Include the engineering skills that you enjoy and that you feel you excel at. You may also want to include areas where you have interest in growth and learning. List any time or accessibility constraints you might have. These would include that you already have a team and your project is half done, you have a work schedule that limits availability, etc. Also, provide a quick overview of interesting design ideas that you are keen to pursue.
 
 Have fun. This must fit on one page, and the presentation may not be more than two minutes. Extra points for serious creativity.
 
 ## Project Website (Due 11:59 2/26, 3/12, 3/26)
+
+**1-page PDF with link to your project website turned in via Canvas**
 
 We ask you to use [GitHub page](https://pages.github.com/) 
 to highlight your team, project ideas, 
@@ -118,8 +123,8 @@ and implementation progress.
 This page must be visible online to all members of your project plus the instructor
 and the TA.
 We understand during the project execution, things change quickly and 
-you may switch to another teams (though not recommended).
-So, this assignment has three dues, and each due must be different from each other
+you may switch to another team (though not recommended).
+So, this assignment has three dues, and each due must be different from the other
 and the next due should contain more progress than the previous one.
 
 At a minimum, your project page should contain the following:
@@ -128,7 +133,7 @@ At a minimum, your project page should contain the following:
 + Project abstract (what is your project and why is it important?)
 + Proposed methods
   - how are you going to deal with the problem?
-  - what resources you need to reach the goal?
+  - what resources do you need to reach the goal?
   - what are the potential risks involved? any mitigation/contingency plan?
   - how long does each method take?
   - what is the job distribution plan for each team member?
@@ -138,6 +143,8 @@ At a minimum, your project page should contain the following:
 
 
 ## Proposal (Due 11:59 PM 4/23)
+
+**5-10 pages of your final proposal turned in via Canvas**
 
 This document will consist of a *5 to 10 page* draft of your final proposal. This draft will clearly identify the key idea of your project, why it is interesting, and add substantial detail on how it will be implemented. The draft will contain relatively complete and polished versions of the following sections: abstract, introduction, background and bibliography for sources used in these sections. A draft of the proposed work, schedule, and required resources need to be included. Be sure to include a risk assessment as part of the proposed work.
 
