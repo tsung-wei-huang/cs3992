@@ -105,7 +105,7 @@ and write down your comments for at least three projects.
 + [Virtual Reality Teleoperation Robot](https://youtube.com/watch?v=XLQnoL_HQWo)
 
 
-## Resume and Elevator Pitch (In class)
+## Resume (Due 11:59 2/5) and Elevator Pitch (In class)
 
 **1-page PDF of your resume (with link to your personal page) turned in via Canvas + in-class pitch**
 
