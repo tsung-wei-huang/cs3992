@@ -39,7 +39,7 @@ The schedule is subject to change.
 
 | Lecture  | Topic |  Due | 
 | :-:      | :-:   |  :-: |
-| 01/20/21 | Introduction | - |
+| 01/20/21 | [Introduction](slides/lecture1.pdf) | - |
 | 01/22/21 | Team Work | - |
 | 01/27/21 | Write a Good Resume | Engineering Evaluation (by 11:59 PM) |
 | 01/29/21 | Build a Personal Website | - |
