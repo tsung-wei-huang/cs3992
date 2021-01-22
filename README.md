@@ -40,11 +40,11 @@ The schedule is subject to change.
 | Lecture  | Topic |  Due | 
 | :-:      | :-:   |  :-: |
 | 01/20/21 | [Introduction](slides/lecture1.pdf) | - |
-| 01/22/21 | Team Work | - |
-| 01/27/21 | Write a Good Resume | Engineering Evaluation (by 11:59 PM) |
+| 01/22/21 | [Team Work and Resume](slides/lecture2.pdf) | - |
+| 01/27/21 | Deliver a Killer Elevator Pitch | Engineering Evaluation (by 11:59 PM) |
 | 01/29/21 | Build a Personal Website | - |
-| 02/03/21 | Elevator Pitch | - |
-| 02/05/21 | Elevator Pitch | Resume (by 11:59 PM) |
+| 02/03/21 | Elevator Pitch by You | - |
+| 02/05/21 | Elevator Pitch by You | Resume (by 11:59 PM) |
 | 02/10/21 | Latex | - |
 | 02/12/21 | Team Forming | - |
 | 02/17/21 | Team Forming | - |
@@ -111,7 +111,13 @@ and write down your comments for at least three projects.
 
 Create a short resume and quick elevator speech (no slides) that describe why other students in the senior project section would want to "hire" you into their team. Include the engineering skills that you enjoy and that you feel you excel at. You may also want to include areas where you have interest in growth and learning. List any time or accessibility constraints you might have. These would include that you already have a team and your project is half done, you have a work schedule that limits availability, etc. Also, provide a quick overview of interesting design ideas that you are keen to pursue.
 
-Have fun. This must fit on one page, and the presentation may not be more than two minutes. Extra points for serious creativity.
+Have fun. This must fit on one page, and the presentation may not be more than three minutes. Extra points for serious creativity.
+
+You can have a look at the following resume examples:
+
++ [Yasin Zamani](slides/yasin-resume.pdf)
++ [Guannan Guo](slides/guannan-resume.pdf)
++ [Cheng-Hsiang Chiu](slides/cheng-hsiang-resume.pdf)
 
 ## Project Website (Due 11:59 2/26, 3/12, 3/26)
 
