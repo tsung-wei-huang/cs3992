@@ -41,7 +41,7 @@ The schedule is subject to change.
 | :-:      | :-:   |  :-: |
 | 01/20/21 | [Introduction](slides/lecture1.pdf) | - |
 | 01/22/21 | [Team Work and Resume](slides/lecture2.pdf) | - |
-| 01/27/21 | Build a Personal Website | Engineering Evaluation (by 11:59 PM) |
+| 01/27/21 | [Build a Website](slides/lecture3.pdf) | Engineering Evaluation (by 11:59 PM) |
 | 01/29/21 | Deliver an Elevator Pitch | - |
 | 02/03/21 | Elevator Pitch by You | - |
 | 02/05/21 | Latex | Resume (by 11:59 PM) |
