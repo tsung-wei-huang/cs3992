@@ -41,8 +41,8 @@ The schedule is subject to change.
 | :-:      | :-:   |  :-: |
 | 01/20/21 | [Introduction](slides/lecture1.pdf) | - |
 | 01/22/21 | [Team Work and Resume](slides/lecture2.pdf) | - |
-| 01/27/21 | Deliver a Killer Elevator Pitch | Engineering Evaluation (by 11:59 PM) |
-| 01/29/21 | Build a Personal Website | - |
+| 01/27/21 | Build a Personal Website | Engineering Evaluation (by 11:59 PM) |
+| 01/29/21 | Deliver an Elevator Pitch | - |
 | 02/03/21 | Elevator Pitch by You | - |
 | 02/05/21 | Elevator Pitch by You | Resume (by 11:59 PM) |
 | 02/10/21 | Latex | - |
@@ -118,6 +118,15 @@ You can have a look at the following resume examples:
 + [Yasin Zamani](slides/yasin-resume.pdf)
 + [Guannan Guo](slides/guannan-resume.pdf)
 + [Cheng-Hsiang Chiu](slides/cheng-hsiang-resume.pdf)
+
+We have provided a [template](website/) for you to quickly get your website 
+up and running. In addition, you will find the following links useful for building
+a website:
+
++ [GitHub Pages](https://pages.github.com/): We suggest using GitHub pages to place your html soruces
++ [W3School](https://www.w3schools.com/): Tutorial pages for learning html
++ [Bootstrap](https://www.w3schools.com/bootstrap4/): Tutorial pages for learning bootstrap
+
 
 ## Project Website (Due 11:59 2/26, 3/12, 3/26)
 
