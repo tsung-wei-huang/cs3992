@@ -22,7 +22,7 @@ We will offer the class *in-person* at [WEB L104](https://map.utah.edu/index.htm
 + Teaching Assistant (TA): Yasin Zamani
   + Email: yasin.zamani@utah.edu
   + Office hour: by appointment
-+ Scoring (total 100%)
++ Scoring (total 100%) - **You get 0.5 penalty for each day of delay**
   + Engineering Evaluation (10%)
   + Resume and Elevator Pitch (10%)
   + Proposal PDF file (30%)
@@ -42,7 +42,7 @@ The schedule is subject to change.
 | 01/20/21 | [Introduction](slides/lecture1.pdf) | - |
 | 01/22/21 | [Team Work and Resume](slides/lecture2.pdf) | - |
 | 01/27/21 | [Build a Website](slides/lecture3.pdf) | Engineering Evaluation (by 11:59 PM) |
-| 01/29/21 | Deliver an Elevator Pitch | - |
+| 01/29/21 | [Deliver an Elevator Pitch](slides/lecture4.pdf) | - |
 | 02/03/21 | Elevator Pitch by You | - |
 | 02/05/21 | Latex | Resume (by 11:59 PM) |
 | 02/10/21 | Team Forming | - |
@@ -108,6 +108,8 @@ and write down your comments for at least three projects.
 ## Resume (Due 11:59 2/5) and Elevator Pitch (In class)
 
 **1-page PDF of your resume (with link to your personal page) turned in via Canvas + in-class pitch**
+
+Sign up your pitch [here](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit?usp=sharing)!
 
 Create a short resume and quick elevator speech (no slides) that describe why other students in the senior project section would want to "hire" you into their team. Include the engineering skills that you enjoy and that you feel you excel at. You may also want to include areas where you have interest in growth and learning. List any time or accessibility constraints you might have. These would include that you already have a team and your project is half done, you have a work schedule that limits availability, etc. Also, provide a quick overview of interesting design ideas that you are keen to pursue.
 
