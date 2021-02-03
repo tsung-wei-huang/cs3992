@@ -44,7 +44,7 @@ The schedule is subject to change.
 | 01/27/21 | [Build a Website](slides/lecture3.pdf) | Engineering Evaluation (by 11:59 PM) |
 | 01/29/21 | [Deliver an Elevator Pitch](slides/lecture4.pdf) | - |
 | 02/03/21 | Elevator Pitch by You | - |
-| 02/05/21 | Latex | Resume (by 11:59 PM) |
+| 02/05/21 | Team Forming | Resume (by 11:59 PM) |
 | 02/10/21 | Team Forming | - |
 | 02/12/21 | Team Forming | - |
 | 02/17/21 | Team Forming | - |
