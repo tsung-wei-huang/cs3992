@@ -15,6 +15,7 @@ We will offer the class *in-person* at [WEB L104](https://map.utah.edu/index.htm
 + Class (CS/ECE 3992)
   + Location: In-person at [WEB L104](https://map.utah.edu/index.html?code=WEB)
   + Time: 11:50 AM - 1:10 PM, Wednesday / Friday (excluding holidays)
+  + Zoom: [https://utah.zoom.us/j/2468214418](https://utah.zoom.us/j/2468214418)
   + Prerequisites: ECE/CS 3710 and ECE/CS 3991
 + Instructor: [Prof. Tsung-Wei Huang][Tsung-Wei Huang]
   + Email: tsung-wei.huang@utah.edu
@@ -44,11 +45,11 @@ The schedule is subject to change.
 | 01/27/21 | [Build a Website](slides/lecture3.pdf) | Engineering Evaluation (by 11:59 PM) |
 | 01/29/21 | [Deliver an Elevator Pitch](slides/lecture4.pdf) | - |
 | 02/03/21 | Elevator Pitch by You | - |
-| 02/05/21 | Team Forming | Resume (by 11:59 PM) |
-| 02/10/21 | Team Forming | - |
-| 02/12/21 | Team Forming | - |
-| 02/17/21 | Team Forming | - |
-| 02/19/21 | Team Forming | - |
+| 02/05/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | Resume (by 11:59 PM) |
+| 02/10/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
+| 02/12/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
+| 02/17/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
+| 02/19/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
 | 02/24/21 | - | - |
 | 02/26/21 | - | Project Website Online - v1 (by 11:59 PM) |
 | 03/03/21 | - | - |
