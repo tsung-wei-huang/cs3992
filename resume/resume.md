@@ -15,7 +15,7 @@
 | Benjamin Wadsworth | [resume](benjamin_wadsworth.pdf) | [website](https://bcwadsworth.me/) |
 | Kidus Yohannes | [resume](kidus_yohannes.pdf) | [website](https://kiduss-portfolio.webflow.io/) |
 | Alex Charters | [resume](alex_charters.docx) | [website](https://alexcharters.github.io/ECE_3992_website/) |
-| Scott Crowley | [resume](scott_crowley.docx) | [website]() |
+| Scott Crowley | [resume](scott_crowley.docx) | Missing website |
 | Mohammed Fateh | [resume](mohammed_fateh.pdf) | [website](https://moefateh.com) |
 | Sam Hirsch | [resume](sam_hirsch.pdf) | [website](www.samhirsch.me) |
 | Phelan Hobbs | [resume](phelan_hobbs.pdf) | [website](https://phelanhobbs.github.io/PhelanResume.github.io/) |
@@ -24,11 +24,11 @@
 | Shawn Michael Linnebach III | [resume](shawn_michael_linnebach_iii.pdf) | [website](https://linnebach08.github.io/Resume/) |
 | E​mmanuel​ L​otubai | [resume](shawn_michael_linnebach_iii.pdf) | [website](https://linnebach08.github.io/Resume/) |
 | Joshua Merrill | [resume](joshua_merrill.pdf) | [website](https://josmer-code-myster.github.io/resume.github.io/) |
-| John Michaels | [resume](john_michaels.pdf) | [website]() |
+| John Michaels | [resume](john_michaels.pdf) | Missing website |
 | McKay Mower | [resume](mckay_mower.pdf) | [website](https://mckaymower.github.io/) |
 | Todd Nielsen | [resume](todd_nielsen.pdf) | [website](https://tgnielse1145.github.io/website/) |
 | Colin Pollard | [resume](colin_pollard.pdf) | [website](https://colinpollard.github.io/resume/) |
 | Aaron Tea | [resume](aaron_tea.pdf) | [website](https://huchimama.github.io/) |
-| Colton Watson | [resume](colton_watson.pdf) | [website]() |
+| Colton Watson | [resume](colton_watson.pdf) | Missing website |
 | Jason S. Zavala | [resume](jason_s_zavala.pdf) | [website](https://jason-zavala.github.io/me/) |
 | Ye Zhou | [resume](ye_zhou.pdf) | [website](https://yezhou0226.github.io/) |
