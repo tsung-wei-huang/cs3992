@@ -46,7 +46,7 @@ The schedule is subject to change.
 | 01/29/21 | [Deliver an Elevator Pitch](slides/lecture4.pdf) | - |
 | 02/03/21 | Elevator Pitch by You | - |
 | 02/05/21 | [Team Forming](slides/lecture5.pdf) ([notes](team-forming/0205.md)) | Resume (by 11:59 PM) |
-| 02/10/21 | [Team Forming](slides/lecture6.pdf) ([resumes](resume/resume.md)) ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
+| 02/10/21 | [Team Forming](slides/lecture6.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1601297747), [resumes](resume/resume.md)) ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
 | 02/12/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
 | 02/17/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
 | 02/19/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
