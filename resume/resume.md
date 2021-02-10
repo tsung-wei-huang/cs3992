@@ -29,6 +29,6 @@
 | Todd Nielsen | [resume](todd_nielsen.pdf) | [website](https://tgnielse1145.github.io/website/) |
 | Colin Pollard | [resume](colin_pollard.pdf) | [website](https://colinpollard.github.io/resume/) |
 | Aaron Tea | [resume](aaron_tea.pdf) | [website](https://huchimama.github.io/) |
-| Colton Watson | [resume](colton_watson.pdf) | Missing website |
+| Colton Watson | [resume](colton_watson.pdf) | [website](https://interestle.github.io/) |
 | Jason S. Zavala | [resume](jason_s_zavala.pdf) | [website](https://jason-zavala.github.io/me/) |
 | Ye Zhou | [resume](ye_zhou.pdf) | [website](https://yezhou0226.github.io/) |
