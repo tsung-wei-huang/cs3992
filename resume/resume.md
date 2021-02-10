@@ -17,7 +17,7 @@
 | Alex Charters | [resume](alex_charters.docx) | [website](https://alexcharters.github.io/ECE_3992_website/) |
 | Scott Crowley | [resume](scott_crowley.docx) | Missing website |
 | Mohammed Fateh | [resume](mohammed_fateh.pdf) | [website](https://moefateh.com) |
-| Sam Hirsch | [resume](sam_hirsch.pdf) | [website](www.samhirsch.me) |
+| Sam Hirsch | [resume](sam_hirsch.pdf) | [website](https://www.samhirsch.me) |
 | Phelan Hobbs | [resume](phelan_hobbs.pdf) | [website](https://phelanhobbs.github.io/PhelanResume.github.io/) |
 | Nathan Hummel | [resume](nathan_hummel.pdf) | [website](https://jstanate.github.io/) |
 | Benjamin Leaptrot | [resume](benjamin_leaptrot.pdf) | [website](https://bbleaptrot.github.io/) |
