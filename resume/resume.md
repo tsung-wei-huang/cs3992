@@ -24,7 +24,7 @@
 | Shawn Michael Linnebach III | [resume](shawn_michael_linnebach_iii.pdf) | [website](https://linnebach08.github.io/Resume/) |
 | E​mmanuel​ L​otubai | [resume](shawn_michael_linnebach_iii.pdf) | [website](https://linnebach08.github.io/Resume/) |
 | Joshua Merrill | [resume](joshua_merrill.pdf) | [website](https://josmer-code-myster.github.io/resume.github.io/) |
-| John Michaels | [resume](john_michaels.pdf) | Missing website |
+| John Michaels | [resume](john_michaels.pdf) | [website](https://subzeroe03.github.io/) |
 | McKay Mower | [resume](mckay_mower.pdf) | [website](https://mckaymower.github.io/) |
 | Todd Nielsen | [resume](todd_nielsen.pdf) | [website](https://tgnielse1145.github.io/website/) |
 | Colin Pollard | [resume](colin_pollard.pdf) | [website](https://colinpollard.github.io/resume/) |
