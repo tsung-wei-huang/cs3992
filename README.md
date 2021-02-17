@@ -48,7 +48,7 @@ The schedule is subject to change.
 | 02/05/21 | [Form Project Group Meeting](slides/lecture5.pdf) ([notes](team-forming/0205.md)) | Resume (by 11:59 PM) |
 | 02/10/21 | [Hire People to Your Team](slides/lecture6.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1601297747), [resumes](resume/resume.md)) ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
 | 02/12/21 | [Budget Your Project](slides/lecture7.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=265465703)) | - |
-| 02/17/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
+| 02/17/21 | [Form Your Team](slides/lecture8.pdf) ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
 | 02/19/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
 | 02/24/21 | - | - |
 | 02/26/21 | - | Project Website Online - v1 (by 11:59 PM) |
