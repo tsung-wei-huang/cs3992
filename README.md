@@ -49,9 +49,9 @@ The schedule is subject to change.
 | 02/10/21 | [Hire People to Your Team](slides/lecture6.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1601297747), [resumes](resume/resume.md)) ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
 | 02/12/21 | [Budget Your Project](slides/lecture7.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=265465703)) | - |
 | 02/17/21 | [Form Your Team](slides/lecture8.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit?pli=1#gid=1343667579)) | - |
-| 02/19/21 | Team Forming ([virtual zoom](https://utah.zoom.us/j/2468214418)) | - |
-| 02/24/21 | - | - |
-| 02/26/21 | - | Project Website Online - v1 (by 11:59 PM) |
+| 02/19/21 | [Market Your Project](slides/lecture9.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=590281948)) | - |
+| 02/24/21 | Create Your Project Website | - |
+| 02/26/21 | Create Your Project Website | Project Website Online - v1 (by 11:59 PM) |
 | 03/03/21 | - | - |
 | 03/05/21 | - | - |
 | 03/10/21 | - | - |
