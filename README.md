@@ -50,7 +50,7 @@ The schedule is subject to change.
 | 02/12/21 | [Budget Your Project](slides/lecture7.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=265465703)) | - |
 | 02/17/21 | [Form Your Team](slides/lecture8.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit?pli=1#gid=1343667579)) | - |
 | 02/19/21 | [Market Your Project](slides/lecture9.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=590281948)) | - |
-| 02/24/21 | Create Your Project Website | - |
+| 02/24/21 | [Create Your Project Website](slides/lecture10.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1809315246)) | - |
 | 02/26/21 | Create Your Project Website | Project Website Online - v1 (by 11:59 PM) |
 | 03/03/21 | - | - |
 | 03/05/21 | - | - |
@@ -147,16 +147,32 @@ and the next due should contain more progress than the previous one.
 
 At a minimum, your project page should contain the following:
 + Project title
+  - keep it simple and precise (7-10 words optimally)
 + Team members
-+ Project abstract (what is your project and why is it important?)
+  - each team has 3-4 students
++ Project abstract
+  - What is your project?
+  - Why is it important? (make me happy? free? successful?)
+  - Keep your abstract around 100 words
++ Challenges
+  - What are the software-level challenges? (at least 3)
+  - What are the hardware-level challenges? (at least 3)
 + Proposed methods
-  - how are you going to deal with the problem?
-  - what resources do you need to reach the goal?
-  - what are the potential risks involved? any mitigation/contingency plan?
-  - how long does each method take?
-  - what is the job distribution plan for each team member?
-+ Timetable of project-related activities starting from 2/26 (inclusive)
-  
+  - how are you going to deal with the challenges you identify?
+  - how are you going to mitigate the risk involved in your methods?
++ Monetary items
+  - identify a list of monetary items
+  - summarize a rough budget of your project
++ Timetable of project-related activities starting from 2/26
+  - What is the job distribution?
+  - What is the prototype you plan to finish by end of the semester?
+  - Add a table to summarize your progress weekly
++ Collaboration plan
+  - How are you going to communicate with team members? (e.g., zoom, in-person)
+  - How are you going to resolve conflicting voices?
+  - How are you going to maintain good team momentum?
+  - How are you going to do when team members fail to achieve assigned progress?
+  - How are you going to distribute budget?
 
 
 
