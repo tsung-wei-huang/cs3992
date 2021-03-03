@@ -52,8 +52,8 @@ The schedule is subject to change.
 | 02/19/21 | [Market Your Project](slides/lecture9.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=590281948)) | - |
 | 02/24/21 | [Create Your Project Website](slides/lecture10.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1809315246)) | - |
 | 02/26/21 | Create Your Project Website | Project Website Online - v1 (by 11:59 PM) |
-| 03/03/21 | - | - |
-| 03/05/21 | - | - |
+| 03/03/21 | [Peer Evaluation - I](slides/lecture11.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=547552200)) | - |
+| 03/05/21 | Peer Evaluation -II | - |
 | 03/10/21 | - | - |
 | 03/12/21 | - | Project Website Online - v2 (by 11:59 PM) |
 | 03/17/21 | - | - |
