@@ -56,8 +56,8 @@ The schedule is subject to change.
 | 03/05/21 | No class ([no-instructional day](https://registrar.utah.edu/academic-calendars/spring2021.php)) | - |
 | 03/10/21 | [Peer Evaluation - II](slides/lecture12.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=547552200)) | - |
 | 03/12/21 | [Refine Your Projects based on Reviews](slides/lecture13.pdf) | Project Website Online - v2 (by 11:59 PM) |
-| 03/17/21 | [Draft with Your Final Report]() ([template](final_report)) | - |
-| 03/19/21 | - | - |
+| 03/17/21 | [Draft with Your Final Report](slides/lecture14.pdf) ([template](final_report)) | - |
+| 03/19/21 | [Think about Your Prototype](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=946490439) | - |
 | 03/24/21 | - | - |
 | 03/26/21 | - | Project Website Online - v3 (by 11:59 PM) |
 | 03/31/21 | - | - |
