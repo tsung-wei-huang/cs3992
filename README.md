@@ -59,7 +59,7 @@ The schedule is subject to change.
 | 03/17/21 | [Draft with Your Final Report](slides/lecture14.pdf) ([template](final_report)) | - |
 | 03/19/21 | [Think about Your Prototype](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=946490439) | - |
 | 03/24/21 | [Evaluate Peer's Prototype](slides/lecture15.pdf) | - |
-| 03/26/21 | - | Project Website Online - v3 (by 11:59 PM) |
+| 03/26/21 | [Evaluate Peer's Prototype - Part II](slides/lecture16.pdf) | Project Website Online - v3 (by 11:59 PM) |
 | 03/31/21 | - | - |
 | 04/02/21 | EE Technical Open House (TBD) | - |
 | 04/07/21 | - | - | 
