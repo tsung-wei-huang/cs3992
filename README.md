@@ -1,11 +1,14 @@
 # CS/ECE 3992 Computer Engineering Sr. Project
+
 This course is for students with major status who are seniors within one year of graduation. In this course each student defines an engineering project that is selected with approval of the instructor. This project is planned and executed to completion over the course of two semesters.
 
-There are several major goals for this project, which will prepare the students for industry or graduate work:
+There are three major learning objectives:
 
 + Define and complete a significant engineering project
 + Develop proposal and presentation skills
 + Project organization, planning, and teamwork skills
+ 
+The project will prepare the students for industry or graduate work.
 
 # Class Logistics
 
@@ -33,6 +36,9 @@ We will offer the class *in-person* at [WEB L104](https://map.utah.edu/index.htm
   + Class Participation (10%)
 + Recommended Textbook
   + William Strunk and E. B. White, *Elements of Style*
++ Prerequisites: 
+  + ECE/CS 3710 
+  + ECE/CS 3991
 
 # Class Schedule
 
@@ -68,6 +74,20 @@ The schedule is subject to change.
 | 04/16/21 | Final Project Presentation | - | 
 | 04/21/21 | Final Project Presentation | - | 
 | 04/23/21 | - | Full Proposal (by 11:59 PM) | 
+
+# List of the Current Projects
+
++ [MercuryMesh: P2P Network for Autonomous Vehicles](https://mercurymesh.dev/)
++ [Smart Chessboard](https://jason-zavala.github.io/smartchess/)
++ [Smart Bike Kit](https://bvanhoose14.github.io/Smart-Bike-Kit/)
++ [HealthyBois (Heart Strawng 💖🥤) - Health Monitering App w/ Water intake and Heart rate tracking](https://linnebach08.github.io/HealthyBois/)
++ [Zoom Peripheral](https://bbleaptrot.github.io/zoomlink)
++ [Holofan](https://alexcharters.github.io/Senior-Design-Website/)
++ [VectorU: Active thrust vectoring at model rocket scale](https://www.VectorU.space/)
++ [UGuard](https://uguard.us)
++ [Textable Walkie-Talkies - TxTy](https://interestle.github.io/TxTy/)
++ [Thesis: An assessment of the impact of unregulated transmissions on Intelligent Transportation System communications at 5.9GHz](https://thesis.bills.ink/)
++ [Thesis: Smart Helmet](https://colinpollard.github.io/portfolio/SmartHelmet/)
 
 
 # Assignment Details
