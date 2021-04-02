@@ -10,6 +10,25 @@ There are three major learning objectives:
  
 The project will prepare the students for industry or graduate work.
 
+
+# Table of Content
+
+* [Class Logistics](#class-logistics)
+* [Class Schedule](#class-schedule)
+* [List of the Current Projects](#list-of-the-current-projects)
+* [Assignment Details](#assignment-details)
+   * [Engineering Observations Assignment (Due 11:59 PM 1/27)](#engineering-observations-assignment-due-1159-pm-127)
+   * [Resume (Due 11:59 2/5) and Elevator Pitch (In class)](#resume-due-1159-25-and-elevator-pitch-in-class)
+   * [Project Website (Due 11:59 2/26, 3/12, 3/26)](#project-website-due-1159-226-312-326)
+   * [Proposal (Due 11:59 PM 4/23)](#proposal-due-1159-pm-423)
+* [Previous Projects](#previous-projects)
+* [Other Helpful Information](#other-helpful-information)
+   * [Local Sources for Parts, Electronics, and Tools](#local-sources-for-parts-electronics-and-tools)
+   * [On-Line Sources for New Equipment](#on-line-sources-for-new-equipment)
+   * [On-Line Surplus Stores](#on-line-surplus-stores)
+   * [Industrial / Mechanical](#industrial--mechanical)
+* [Acknowledgement](#acknowledgement)
+
 # Class Logistics
 
 We will offer the class *in-person* at [WEB L104](https://map.utah.edu/index.html?code=WEB)
