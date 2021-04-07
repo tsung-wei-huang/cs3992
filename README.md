@@ -20,6 +20,7 @@ The project will prepare the students for industry or graduate work.
    * [Engineering Observations Assignment (Due 11:59 PM 1/27)](#engineering-observations-assignment-due-1159-pm-127)
    * [Resume (Due 11:59 2/5) and Elevator Pitch (In class)](#resume-due-1159-25-and-elevator-pitch-in-class)
    * [Project Website (Due 11:59 2/26, 3/12, 3/26)](#project-website-due-1159-226-312-326)
+   * [Final Presentation](#final-presentation)
    * [Proposal (Due 11:59 PM 4/23)](#proposal-due-1159-pm-423)
 * [Previous Projects](#previous-projects)
 * [Other Helpful Information](#other-helpful-information)
@@ -87,12 +88,13 @@ The schedule is subject to change.
 | 03/26/21 | [Evaluate Peer's Prototype - Part II](slides/lecture16.pdf) | Project Website Online - v3 (by 11:59 PM) |
 | 03/31/21 | (no class - midterm) | - |
 | 04/02/21 | [Review Peer Comments on Your Prototype](slides/lecture17.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=771236172)) | - |
-| 04/07/21 | [Prepare Your Final Presentation](slides/lecture18.pdf) ([sign up your slot](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1123634737)) | - | 
+| 04/07/21 | [Prepare Your Final Presentation](slides/lecture18.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1206914098)) | - | 
 | 04/09/21 | - | - | 
 | 04/14/21 | - | - | 
-| 04/16/21 | Final Project Presentation | - | 
+| 04/16/21 | - | - | 
 | 04/21/21 | Final Project Presentation | - | 
-| 04/23/21 | - | Full Proposal (by 11:59 PM) | 
+| 04/23/21 | Final Project Presentation | -| 
+| 04/26/21 | - | Full Proposal (by 11:59 PM) |
 
 # List of the Current Projects
 
@@ -213,7 +215,11 @@ At a minimum, your project page should contain the following:
   - How are you going to do when team members fail to achieve assigned progress?
   - How are you going to distribute budget?
 
+## Final Presentation 
 
+Sign up your presentation slot [here](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1123634737)!
+
+Please see [lecture18](slides/lecture18.pdf) for details about your presentation.
 
 ## Proposal (Due 11:59 PM 4/23)
 
