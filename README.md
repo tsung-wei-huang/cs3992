@@ -89,7 +89,7 @@ The schedule is subject to change.
 | 03/31/21 | (no class - midterm) | - |
 | 04/02/21 | [Review Peer Comments on Your Prototype](slides/lecture17.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=771236172)) | - |
 | 04/07/21 | [Prepare Your Final Presentation](slides/lecture18.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1206914098)) | - | 
-| 04/09/21 | - | - | 
+| 04/09/21 | [Prepare Your Final Report](slides/lecture19.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1312859287)) | - | 
 | 04/14/21 | - | - | 
 | 04/16/21 | - | - | 
 | 04/21/21 | Final Project Presentation | - | 
