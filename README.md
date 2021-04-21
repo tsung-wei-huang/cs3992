@@ -239,7 +239,7 @@ Please register for the open house [here](https://utah.zoom.us/meeting/register/
 
 ## Course Evaluation (Due 11:59 PM 4/30)
 
-You need to complete the course evaluation on by logging into <a href="scf.utah.edu/blue">scf.utah.edu/blue</a>, which counts for 3 points in your participation score.
+You need to complete the course evaluation on by logging into <a href="https://scf.utah.edu/blue">scf.utah.edu/blue</a>, which counts for 3 points in your participation score.
 Once you have completed the evaluation, please email the instructor 
 (tsung-wei.huang@utah.edu) the screenshot of the *confirmation page*. 
 DO NOT attach any written comments that must remain confidential.
