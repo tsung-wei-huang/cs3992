@@ -94,7 +94,7 @@ The schedule is subject to change.
 | 04/09/21 | [Prepare Your Final Report](slides/lecture19.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1312859287)) | - | 
 | 04/14/21 | [Work on Your Final Presentation](slides/lecture20.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=941597153)) | - | 
 | 04/16/21 | [Work on Your Final Presentation (II)](slides/lecture21.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1367835610)) | - | 
-| 04/21/21 | [Final Presentation (I)](slides/lecture22.pdf) | - | 
+| 04/21/21 | [Final Presentation (I)](slides/lecture22.pdf) | [notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1123634737) | 
 | 04/23/21 | Final Project Presentation | -| 
 | 04/26/21 | - | Full Proposal (by 11:59 PM) |
 
