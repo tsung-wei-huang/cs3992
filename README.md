@@ -21,7 +21,7 @@ The project will prepare the students for industry or graduate work.
    * [Resume (Due 11:59 2/5) and Elevator Pitch (In class)](#resume-due-1159-25-and-elevator-pitch-in-class)
    * [Project Website (Due 11:59 2/26, 3/12, 3/26)](#project-website-due-1159-226-312-326)
    * [Final Presentation](#final-presentation)
-   * [Proposal (Due 11:59 PM 4/26)](#proposal-due-1159-pm-423)
+   * [Proposal (Due 11:59 PM 4/26)](#proposal-due-1159-pm-426)
    * [Technical Open House (Due 11:59 PM 4/27)](#technical-Open-House-due-1159-PM-427)
    * [Course Evaluation (Due 11:59 PM 4/30)](#course-evaluation-due-1159-pm-430)
 * [Previous Projects](#previous-projects)
