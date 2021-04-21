@@ -21,7 +21,9 @@ The project will prepare the students for industry or graduate work.
    * [Resume (Due 11:59 2/5) and Elevator Pitch (In class)](#resume-due-1159-25-and-elevator-pitch-in-class)
    * [Project Website (Due 11:59 2/26, 3/12, 3/26)](#project-website-due-1159-226-312-326)
    * [Final Presentation](#final-presentation)
-   * [Proposal (Due 11:59 PM 4/23)](#proposal-due-1159-pm-423)
+   * [Proposal (Due 11:59 PM 4/26)](#proposal-due-1159-pm-423)
+   * [Technical Open House (Due 11:59 PM 4/27)](#technical-Open-House-due-1159-PM-427)
+   * [Course Evaluation (Due 11:59 PM 4/30)](#course-evaluation-due-1159-pm-430)
 * [Previous Projects](#previous-projects)
 * [Other Helpful Information](#other-helpful-information)
    * [Local Sources for Parts, Electronics, and Tools](#local-sources-for-parts-electronics-and-tools)
@@ -91,8 +93,8 @@ The schedule is subject to change.
 | 04/07/21 | [Prepare Your Final Presentation](slides/lecture18.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1206914098)) | - | 
 | 04/09/21 | [Prepare Your Final Report](slides/lecture19.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1312859287)) | - | 
 | 04/14/21 | [Work on Your Final Presentation](slides/lecture20.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=941597153)) | - | 
-| 04/16/21 | [Work on Your Final Presentation (II)](sliees/lecture21.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1367835610)) | - | 
-| 04/21/21 | Final Project Presentation | - | 
+| 04/16/21 | [Work on Your Final Presentation (II)](slides/lecture21.pdf) ([notes](https://docs.google.com/spreadsheets/d/1JfWZkEyoXdVLtHkiwOqk24G7WVhLWMCP113cSe9fgsQ/edit#gid=1367835610)) | - | 
+| 04/21/21 | [Final Presentation (I)](slides/lecture22.pdf) | - | 
 | 04/23/21 | Final Project Presentation | -| 
 | 04/26/21 | - | Full Proposal (by 11:59 PM) |
 
@@ -221,11 +223,26 @@ Sign up your presentation slot [here](https://docs.google.com/spreadsheets/d/1Jf
 
 Please see [lecture18](slides/lecture18.pdf) for details about your presentation.
 
-## Proposal (Due 11:59 PM 4/23)
+## Proposal (Due 11:59 PM 4/26)
 
 **5-10 pages of your final proposal turned in via Canvas**
 
 This document will consist of a *5 to 10 page* draft of your final proposal. This draft will clearly identify the key idea of your project, why it is interesting, and add substantial detail on how it will be implemented. The draft will contain relatively complete and polished versions of the following sections: abstract, introduction, background and bibliography for sources used in these sections. A draft of the proposed work, schedule, and required resources need to be included. Be sure to include a risk assessment as part of the proposed work.
+
+## Technical Open House (Due 11:59 PM 4/27)
+
+You need to participate in the ECE Technical Open House, which is scheduled to 
+be at 2:00 PM - 4:30 PM on 4/27 via zoom,
+and submit your comment on 2-3 projects via Canvas.
+
+Please register for the open house [here](https://utah.zoom.us/meeting/register/tJEldOyvqDsuH9GKPPowrddbwSDaGPPfSe-v). The flyer can be found [here](slides/2021TOHInvitation.pdf).
+
+## Course Evaluation (Due 11:59 PM 4/30)
+
+You need to complete the course evaluation on by logging into <a href="scf.utah.edu/blue">scf.utah.edu/blue</a>, which counts for 3 points in your participation score.
+Once you have completed the evaluation, please email the instructor 
+(tsung-wei.huang@utah.edu) the screenshot of the *confirmation page*. 
+DO NOT attach any written comments that must remain confidential.
 
 # Previous Projects
 
